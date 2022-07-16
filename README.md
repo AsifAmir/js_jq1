@@ -1,1 +1,1 @@
-# js_jq1
+https://asifamir.github.io/js_jq1/
